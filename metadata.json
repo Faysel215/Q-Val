@@ -1,0 +1,5 @@
+{
+  "name": "Q-Val: Synthetic Illiquid Asset Pricer",
+  "description": "A quantum-inspired valuation tool for real economy assets backing Islamic contracts, utilizing synthetic price path generation for illiquid assets.",
+  "requestFramePermissions": []
+}
